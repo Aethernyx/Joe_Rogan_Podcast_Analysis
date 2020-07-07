@@ -4,18 +4,20 @@ This repository contains closed caption data scraped for podcast episodes from T
 In addition the repository contains Word Clouds for each episode, along with Topic Modeling Genarators, using NMF, and LDA.
 
 
-<li> Dependencies </li>
-  <ul> Python 3.8 </ul>
-  <ul> requests </ul>
-  <ul> bs4 </ul>
-  <ul> re </ul>
-  <ul> unidecode </ul>
-  <ul> pandas </ul>
-  <ul> selenium </ul>
-  <ul> time </ul>
-  <ul> youtube_transcript_api </ul>
-  <ul> numpy </ul>
-  <ul> matplotlib </ul>
-  <ul> nltk </ul>
-  <ul> wordcloud </ul>
-  <ul> sklearn </ul>
+# Requirements
+<ul> 
+  <li> Python 3.8 </li>
+  <li> requests </li>
+  <li> bs4 </li>
+  <li> re </li>
+  <li> unidecode </li>
+  <li> pandas </li>
+  <li> selenium </li>
+  <li> time </li>
+  <li> youtube_transcript_api </li>
+  <li> numpy </li>
+  <li> matplotlib </li>
+  <li> nltk </li>
+  <li> wordcloud </li>
+  <li> sklearn </li>
+</ul>
